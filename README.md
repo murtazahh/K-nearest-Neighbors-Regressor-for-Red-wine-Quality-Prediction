@@ -16,3 +16,5 @@ Usage
 Clone the repository.
 Run the Jupyter notebook or Python script.
 Follow the tasks outlined in the notebook to set up, preprocess data, build, and evaluate the KNN regressor.
+
+For access to the code and dataset, please reach out to me at callmemurtazah@gmail.com
